@@ -22,5 +22,5 @@ The task is to load the imagery into a NumPy array and produce several outputs:
 ##### What are Spectral Bands? 
 * Spectral bands are a limited range of values the satellite sensor is able to detect along a spectrum. Visible light is only a very small portion of all light waves as shown in the image below. 
 
-![picture alt](https://lh3.googleusercontent.com/proxy/o6rQWSau97HDK841_YHkMN15tmHQIwV5BiugDpiI8H4IhrmM-tfz0dIHEVzhBuGDqudfXkBaxs-xzOHVdEk0_NeaSB3YkrA2-3t-f-VZRHp0EevyH67R1sphgRD73nKp6QNTZrQOnzo "Spectral Bands")
+![picture alt](http://www.justscience.in/wp-content/uploads/2017/05/electromagneticspectrum.jpg "Spectral Bands")
 
