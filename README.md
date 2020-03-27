@@ -3,7 +3,7 @@ NDVI Calculation &amp; Visualization using Numpy, Rasterio, Folium &amp; Matplot
 
 ### Defining the Task
 
-Image processing is a fundamental component of the project. The images/ directory contains 43 GeoTIFFs (embedded in a TIFF file, it is a metadata standard that allows georeferencing information) from an area in Minnesota. Though optical imagery typically contains red, green, and blue bands (layers), these files contain only red and near-infrared (NIR) bands. These bands are critical for determining the health of vegetation, particularly with Normalized Difference Vegetation Index (NDVI).
+Image processing is a fundamental component of the project. The "images/" directory contains 43 GeoTIFFs (embedded in a TIFF file, it is a metadata standard that allows georeferencing information) from an area in Minnesota. Though optical imagery typically contains red, green, and blue bands (layers), these files contain only red and near-infrared (NIR) bands. These bands are critical for determining the health of vegetation, particularly with Normalized Difference Vegetation Index (NDVI).
 
 The task is to load the imagery into a NumPy array and produce several outputs:
 * A time series of the average NDVI over time. This is the average NDVI across each image.
